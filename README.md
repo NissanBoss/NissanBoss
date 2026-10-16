@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="A report in the style of these tools. Your phone signs every photo it takes, EXIF or not: Birthmark. Your coding agent kept the key you pasted into it: Verbatim. Every file anybody ever deleted goes out with the push: Airing. Your anonymous code still names the things you name: Accent. Forty files on your machine wrote down what you typed: Hearsay." src="banner-light.svg">
-</picture>
+<img alt="NissanBoss. Deleted is not gone: a red bar is drawn over the last word, and the word shows back through it. Airing, Dunnage, Workings, Outtakes, Verbatim, Birthmark." src="banner.svg">
 
 ## Hey, I'm Nissan
 
