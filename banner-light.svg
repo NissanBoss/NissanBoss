@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="292" viewBox="0 0 860 292" role="img" aria-label="NissanBoss: what you give away without knowing">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; white-space: pre; }
+    .page { fill: #ffffff; stroke: #d0d7de; }
+    .title { fill: #1f2328; font-weight: 700; }
+    .rule, .end { fill: #656d76; }
+    .line { fill: #1f2328; }
+    .tool { fill: #656d76; font-style: italic; }
+    .sensor { fill: #cf222e; } .secret { fill: #bc4c00; } .pushed { fill: #8250df; }
+    .tells { fill: #0969da; } .typed { fill: #1a7f37; }
+    .in { animation: in 0.5s ease-out both; }
+    @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect class="page" x="0.5" y="0.5" width="859" height="291" rx="10"/>
+  <text class="title in" x="24" y="44" style="animation-delay: 0.1s">NissanBoss: what you give away without knowing</text>
+  <text class="rule in" x="24" y="66" style="animation-delay: 0.1s">==============================================</text>
+  <g class="in" style="animation-delay: 0.5s">
+    <text x="48" y="108"><tspan class="sensor">[SENSOR  ]</tspan><tspan class="line"> Your phone signs every photo it takes, EXIF or not</tspan></text>
+    <text class="tool" x="836" y="108" text-anchor="end">Birthmark</text>
+  </g>
+  <g class="in" style="animation-delay: 0.9s">
+    <text x="48" y="136"><tspan class="secret">[SECRET  ]</tspan><tspan class="line"> Your coding agent kept the key you pasted into it</tspan></text>
+    <text class="tool" x="836" y="136" text-anchor="end">Verbatim</text>
+  </g>
+  <g class="in" style="animation-delay: 1.3s">
+    <text x="48" y="164"><tspan class="pushed">[PUSHED  ]</tspan><tspan class="line"> Every file anybody ever deleted goes out with the push</tspan></text>
+    <text class="tool" x="836" y="164" text-anchor="end">Airing</text>
+  </g>
+  <g class="in" style="animation-delay: 1.7s">
+    <text x="48" y="192"><tspan class="tells">[TELLS   ]</tspan><tspan class="line"> Your anonymous code still names the things you name</tspan></text>
+    <text class="tool" x="836" y="192" text-anchor="end">Accent</text>
+  </g>
+  <g class="in" style="animation-delay: 2.1s">
+    <text x="48" y="220"><tspan class="typed">[TYPED   ]</tspan><tspan class="line"> Forty files on your machine wrote down what you typed</tspan></text>
+    <text class="tool" x="836" y="220" text-anchor="end">Hearsay</text>
+  </g>
+  <text class="end in" x="48" y="262" style="animation-delay: 2.6s">Nothing was changed, and nothing was sent anywhere.</text>
+</svg>

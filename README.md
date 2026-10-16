@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img alt="A report in the style of these tools. Your phone signs every photo it takes, EXIF or not: Birthmark. Your coding agent kept the key you pasted into it: Verbatim. Every file anybody ever deleted goes out with the push: Airing. Your anonymous code still names the things you name: Accent. Forty files on your machine wrote down what you typed: Hearsay." src="banner-light.svg">
+</picture>
+
 ## Hey, I'm Nissan
 
 I came at this from the breaking side. Working out how to get into something
@@ -5,10 +10,49 @@ is what teaches you where it leaks, and most of what I put up here is that
 pointed back the other way: here is what you are giving away without
 knowing, and here is what you can actually do about it.
 
-Small tools. One binary, nothing to install. The pinned ones below are what
-I have going at the moment.
+Small tools. One binary each, nothing to install.
 
-Whatever I build next, these stay the same:
+### What ties you to yourself
+
+- **[Birthmark](https://github.com/NissanBoss/Birthmark)**: whether the photos you are about to publish carry your camera's mark, which no metadata tool touches
+- **[Accent](https://github.com/NissanBoss/Accent)**: what ties your anonymous code to you
+- **[Tell](https://github.com/NissanBoss/Tell)**: what the way you write gives away
+- **[Lineup](https://github.com/NissanBoss/Lineup)**: how many people you could still be, from what an account has said about itself
+
+### What you hand over
+
+- **[Airing](https://github.com/NissanBoss/Airing)**: what your repository releases when it goes public
+- **[Alibi](https://github.com/NissanBoss/Alibi)**: what your commit history publishes about you
+- **[Baggage](https://github.com/NissanBoss/Baggage)**: what is inside a file before you send it
+- **[Kerbside](https://github.com/NissanBoss/Kerbside)**: what your dist folder publishes the second you deploy it
+- **[Toolmarks](https://github.com/NissanBoss/Toolmarks)**: what the binary you are about to publish says about you
+- **[Dunnage](https://github.com/NissanBoss/Dunnage)**: what your container image is still carrying
+- **[Workings](https://github.com/NissanBoss/Workings)**: what your notebook publishes
+- **[Outtakes](https://github.com/NissanBoss/Outtakes)**: what a terminal recording kept that you did not mean to publish
+
+### What your machine keeps
+
+- **[Verbatim](https://github.com/NissanBoss/Verbatim)**: what your coding agents wrote down
+- **[Hearsay](https://github.com/NissanBoss/Hearsay)**: the forty files on your machine that write down what you type
+- **[Glasshouse](https://github.com/NissanBoss/Glasshouse)**: what your computer says about you, and how much of it you can change
+- **[Haunts](https://github.com/NissanBoss/Haunts)**: what the networks your computer remembers say about where you have been
+- **[Doormat](https://github.com/NissanBoss/Doormat)**: the keys you have left lying about
+- **[Ajar](https://github.com/NissanBoss/Ajar)**: which doors your own ssh folder leaves open
+
+### What gets in
+
+- **[Customs](https://github.com/NissanBoss/Customs)**: what an installer can do to you, before you run it
+- **[Tally](https://github.com/NissanBoss/Tally)**: what an archive will do when you unpack it
+- **[Waxwork](https://github.com/NissanBoss/Waxwork)**: what a model file does when you load it
+- **[Tidemark](https://github.com/NissanBoss/Tidemark)**: what something left behind after it ran
+
+### And besides
+
+- **[Fal](https://github.com/NissanBoss/Fal)**: a programming language in Spanish, with [a course](https://aprende.fal-lang.org) that marks its own exercises
+- **[Unpick](https://github.com/NissanBoss/Unpick)**: build a cipher out of the usual pieces and watch the oldest attacks take it apart
+- **[Octavo](https://github.com/NissanBoss/Octavo)**: turn a PDF into a booklet you can print, fold and staple
+
+### Whatever I build next, these stay the same
 
 **Nothing leaves your machine.** No uploads, no lookups, no telemetry. Not
 as a promise either: there is no network code in any of it, and a test reads
