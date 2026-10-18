@@ -21,6 +21,7 @@ Small tools. One binary each, nothing to install.
 - **[Airing](https://github.com/NissanBoss/Airing)**: what your repository releases when it goes public
 - **[Alibi](https://github.com/NissanBoss/Alibi)**: what your commit history publishes about you
 - **[Baggage](https://github.com/NissanBoss/Baggage)**: what is inside a file before you send it
+- **[Pentimento](https://github.com/NissanBoss/Pentimento)**: whether what you cropped, covered or blurred out of a file is really gone
 - **[Kerbside](https://github.com/NissanBoss/Kerbside)**: what your dist folder publishes the second you deploy it
 - **[Toolmarks](https://github.com/NissanBoss/Toolmarks)**: what the binary you are about to publish says about you
 - **[Dunnage](https://github.com/NissanBoss/Dunnage)**: what your container image is still carrying
