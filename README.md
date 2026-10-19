@@ -14,6 +14,7 @@ Small tools. One binary each, nothing to install.
 - **[Birthmark](https://github.com/NissanBoss/Birthmark)**: whether the photos you are about to publish carry your camera's mark, which no metadata tool touches
 - **[Accent](https://github.com/NissanBoss/Accent)**: what ties your anonymous code to you
 - **[Tell](https://github.com/NissanBoss/Tell)**: what the way you write gives away
+- **[Earmark](https://github.com/NissanBoss/Earmark)**: which of your accounts a project carries, in the tokens, tags and keys built into it
 - **[Lineup](https://github.com/NissanBoss/Lineup)**: how many people you could still be, from what an account has said about itself
 
 ### What you hand over
