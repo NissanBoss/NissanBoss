@@ -34,6 +34,7 @@ Small tools. One binary each, nothing to install.
 
 - **[Verbatim](https://github.com/NissanBoss/Verbatim)**: what your coding agents wrote down
 - **[Hearsay](https://github.com/NissanBoss/Hearsay)**: the forty files on your machine that write down what you type
+- **[Afterimage](https://github.com/NissanBoss/Afterimage)**: what your machine still remembers about the files you deleted
 - **[Glasshouse](https://github.com/NissanBoss/Glasshouse)**: what your computer says about you, and how much of it you can change
 - **[Haunts](https://github.com/NissanBoss/Haunts)**: what the networks your computer remembers say about where you have been
 - **[Doormat](https://github.com/NissanBoss/Doormat)**: the keys you have left lying about
