@@ -50,6 +50,7 @@ Small tools. One binary each, nothing to install.
 ### And besides
 
 - **[Fal](https://github.com/NissanBoss/Fal)**: a programming language in Spanish, with [a course](https://aprende.fal-lang.org) that marks its own exercises
+- **[FalOS](https://github.com/NissanBoss/FalOS)**: an operating system written from scratch in Fal, where programs are born with no permissions, built one day at a time
 - **[Unpick](https://github.com/NissanBoss/Unpick)**: build a cipher out of the usual pieces and watch the oldest attacks take it apart
 - **[Octavo](https://github.com/NissanBoss/Octavo)**: turn a PDF into a booklet you can print, fold and staple
 
